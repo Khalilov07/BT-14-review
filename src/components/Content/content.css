@@ -1,0 +1,18 @@
+.content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.user {
+    width: 30%;
+    height: 200px;
+    padding: 15px;
+    display: flex;
+    color: white;
+    font-size: 20px;
+    align-items: center;
+    border-radius: 10px;
+    background: darkgrey;
+    justify-content: space-around;
+}
